@@ -18,11 +18,11 @@
 
 ## 📂 Featured Projects
 - [🚢 Ship Solutions Data Analysis](#): 선박 데이터 분석 및 리드타임 예측 프로젝트.
-- [📊 Text Classification with BERT](https://github.com/yourusername/bert-text-classification): BERT를 활용한 텍스트 분류 모델.
-- [🎥 SMARTSHIP Demo Video](https://www.youtube.com/watch?v=example): 프로젝트 시연 영상 보기.
+- [🎥 SMARTSHIP Demo Video]([![Watch the video](https://github.com/user-attachments/assets/37ef937e-c45e-415d-8793-32359c2f86ed)](https://www.youtube.com/watch?v=drF5rMgZzB0)
+: 프로젝트 시연 영상 보기.
 
-> 더 많은 프로젝트는 [리포지토리 목록](https://github.com/yourusername?tab=repositories)에서 확인하실 수 있습니다.
-
+- 긍부정.
+- 
 ---
 
 ## 📫 Contact
