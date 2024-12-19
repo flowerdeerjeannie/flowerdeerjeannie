@@ -1,40 +1,23 @@
 ## LEEJIEUN 👋
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=html&langs_count=6&theme=light)
+### 💡 About Me
+데이터의 가치를 탐구하며 기술과 비즈니스를 연결하는 데에 열정을 가지고 있습니다. 
+새로운 도전을 즐기며, 머신러닝 및 딥러닝 기술을 활용해 실질적인 문제를 해결하는 데 기여하고 싶습니다.
 
 ---
 
-## 🔧 My Skills
-### 🖥️ Technical Skills
-- **Programming Languages**: Python, SQL
-- **Data Analysis**: Pandas, NumPy, Matplotlib
+## 🔧 Skills
+- **Languages**: Python
+- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch
 - **Databases**: MySQL
 - **Version Control**: Git, GitHub
 
 ---
 
-## 🏆 Notable Projects
-### 🚢 [Ship Solutions Data Analysis](#)
-- Conducted data preprocessing and analysis for a maritime shipping company.
-- Created actionable insights to optimize operations using **Python** and **SQL**.
-- Successfully presented findings that improved decision-making.
-
+## 📫 Contact
+- **Email**: jieunn1212@gmail.com
 ---
 
-## ✨ My Strengths
-- **Quick Learner**: Picking up new tools and technologies rapidly.
-- **Problem Solver**: Finding creative and effective solutions to challenges.
-- **Team Player**: Strong communication and collaboration skills from my teaching background.
-
----
-
-## 📬 Let’s Connect!
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-### 🌱 About Me
-I’m excited to combine my creativity, problem-solving skills, and data analysis expertise to deliver value in a tech-driven environment. Let’s work together to make meaningful impacts!
+## 📌 Note
+저는 실무에 필요한 기술을 빠르게 학습하며, 이를 프로젝트에 적용하여 구체적인 결과를 도출하는 데 집중하고 있습니다. 앞으로도 꾸준히 성장하며 새로운 도전을 이어나가겠습니다.
