@@ -1,4 +1,8 @@
-## Hi there 👋
+## LEEJIEUN 👋
+
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=html&langs_count=6&theme=light)
+
 ---
 
 ## 🔧 My Skills
@@ -7,9 +11,6 @@
 - **Data Analysis**: Pandas, NumPy, Matplotlib
 - **Databases**: MySQL
 - **Version Control**: Git, GitHub
-
-### 🧩 Certifications
-- 📜 **정보처리기사 (Information Processing Engineer)**
 
 ---
 
