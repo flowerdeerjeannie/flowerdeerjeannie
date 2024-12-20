@@ -17,7 +17,7 @@
 ---
 
 ## 📂 Featured Projects
-- [🚢 Ship Solutions Data Analysis](#): 선박용품 카테고리 분류 및 리드타임 예측 프로젝트.
+- [🚢 Ship Solutions Data Analysis](https://github.com/flowerdeerjeannie/SMARTSHIP): 선박용품 카테고리 분류 및 리드타임 예측 프로젝트.
 - [🎥 SMARTSHIP Demo Video](https://www.youtube.com/watch?v=drF5rMgZzB0): 프로젝트 시연 영상 보기.
 - 
 ---
